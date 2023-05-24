@@ -5,7 +5,7 @@ This project is a simple console-based library management system. It allows the 
 ## Table of Contents
 
 **- [Features](#features)**<br/>
-**- [Getting Started](#Getting Started)**<br/>
+**- [Installation](Installation)**<br/>
 **- [Usage](#usage)**<br/>
 **- [Contributing](#contributing)**<br/>
 
@@ -19,7 +19,7 @@ This project is a simple console-based library management system. It allows the 
 -[x] Borrow books: Users can borrow books from the library system. The system checks the availability of the book and updates the quantity if the book is available.
 -[x] Return books: Users can return books they have borrowed. The system marks the book as returned and increments the quantity.
 
-## Getting Started
+## Installation
 
 To run the library management system, follow these steps:
 
