@@ -11,13 +11,13 @@ This project is a simple console-based library management system. It allows the 
 
 ## Features
 
--[x] Add books: The admin can add books to the library system by providing the book's ID, name, and total quantity.
--[x] Search for books: The admin can search for books by entering a book name prefix. The system will return a list of books whose names match the given prefix.
--[x] List all books: The admin can print a list of all books in the library system.
--[x] List users who borrowed a book: The admin can enter a book name and retrieve a list of users who have borrowed that book.
--[x] Add users: The admin can add users to the library system by providing the user's ID and name.
--[x] Borrow books: Users can borrow books from the library system. The system checks the availability of the book and updates the quantity if the book is available.
--[x] Return books: Users can return books they have borrowed. The system marks the book as returned and increments the quantity.
+- [x] Add books: The admin can add books to the library system by providing the book's ID, name, and total quantity.
+- [x] Search for books: The admin can search for books by entering a book name prefix. The system will return a list of books whose names match the given prefix.
+- [x] List all books: The admin can print a list of all books in the library system.
+- [x] List users who borrowed a book: The admin can enter a book name and retrieve a list of users who have borrowed that book.
+- [x] Add users: The admin can add users to the library system by providing the user's ID and name.
+- [x] Borrow books: Users can borrow books from the library system. The system checks the availability of the book and updates the quantity if the book is available.
+- [x] Return books: Users can return books they have borrowed. The system marks the book as returned and increments the quantity.
 
 ## Installation
 
